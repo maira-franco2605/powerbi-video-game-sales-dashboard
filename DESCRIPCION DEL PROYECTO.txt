@@ -1,0 +1,27 @@
+🎮 Dashboard de Análisis de Ventas Globales de Videojuegos con Power BI 📊
+
+Hola a Todos! Comparto unos de los Proyectos que hice en Practicas de un curso en Power BI, 
+he creado un dashboard interactivo para analizar las ventas globales de videojuegos a través de varios parámetros clave. 
+Este dashboard permite explorar de manera detallada cómo se distribuyen las ventas a lo largo de los años, 
+en diferentes plataformas, géneros y regiones del mundo.
+
+🔹 Características Principales:
+
+Gráfico de Barras (Ventas por Continente): Un gráfico de barras muestra las ventas por continente con el tiempo, utilizando el eje X para los años y el eje Y para las ventas en millones. Este gráfico permite identificar las tendencias y fluctuaciones de ventas en cada región.
+
+Gráfico Circular (Porcentaje de Ventas por Continente): Un gráfico circular visualiza los porcentajes de ventas por continente, ayudando a comprender rápidamente qué regiones dominan el mercado de videojuegos a nivel mundial.
+
+Gráfico de Barras Horizontal (Ventas por Plataforma por Continente): Otro gráfico de barras horizontales muestra las ventas de videojuegos por plataforma (como PlayStation, Xbox, PC, etc.) desglosadas por continente. Esto facilita la comparación entre plataformas en diferentes regiones.
+
+Gráfico de Barras Horizontal (Ventas por Género por Región): Este gráfico revela cómo se distribuyen las ventas según el género de los videojuegos (acción, aventura, deportes, etc.) en cada continente, lo que ayuda a identificar las preferencias de los jugadores en distintas partes del mundo.
+
+Cuadro de Detalles (Ventas Globales): Un cuadro resumen en la parte inferior muestra las ventas globales totales, con información clave como el total de ventas, el videojuego más vendido y otros datos relevantes.
+
+Segmentadores Interactivos: En la parte superior del dashboard, los segmentadores permiten filtrar los datos según diferentes criterios: año, región, plataforma, género y editorial. Esto permite realizar un análisis más profundo y personalizado de los datos.
+
+🔹 ¿Por qué es útil?
+Este dashboard es una herramienta potente para las empresas del sector de los videojuegos, 
+ya que permite identificar tendencias de ventas y patrones de consumo por región, plataforma y género. 
+Con esta información, los desarrolladores, editores y distribuidores pueden tomar decisiones estratégicas sobre qué títulos promover, 
+qué plataformas priorizar y cómo adaptar sus estrategias a las preferencias globales.
+
