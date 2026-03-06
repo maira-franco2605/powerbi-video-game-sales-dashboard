@@ -27,5 +27,5 @@ Vista del Dashboard
 ![Dashboard](Capturas_Dashboard_Ventas+Videojuegos.JPG)
 Dashboard interactivo
 Puedes acceder al dashboard aquí:
-[https://lnkd.in/dwygayuY](https://github.com/maira-franco2605/powerbi-video-game-sales-dashboard/tree/main)
+[[https://lnkd.in/dwygayuY](https://github.com/maira-franco2605/powerbi-video-game-sales-dashboard/tree/main)](https://github.com/maira-franco2605/powerbi-video-game-sales-dashboard)
 
